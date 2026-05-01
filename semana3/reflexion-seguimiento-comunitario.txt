@@ -1,8 +1,8 @@
 Reflexión sobre seguimiento comunitario – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:carolina fuentes bello
+Fecha:1-4-26
+Nombre de la rama:carolina_fuentes_bello
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,12 @@ En tu respuesta menciona al menos dos de estas ideas:
 - prevención de desinformación
 - responsabilidad digital
 
-Respuesta:
+Respuesta:La repetición de procesos es fundamental
+porque garantiza una revisión de información
+constante, permitiendo que los datos se
+actualicen y se validen antes de actuar.
+Este ejercicio recurrente actúa como un 
+filtro de prevención de desinformación,
+asegurando que las decisiones no se basen
+en rumores o datos antiguos, sino en hechos
+verificados.
