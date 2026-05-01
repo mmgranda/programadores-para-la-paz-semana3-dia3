@@ -1,5 +1,9 @@
 let intento = 1
-const maximoIntentos = 3
+const maximoIntentos = 300
+
+if(maximointentos < 1){
+  console.log ("el maximo de intentos debe ser al menos 1")
+}
 
 console.log("Práctica inicial con while")
 console.log("Vamos a repetir un proceso mientras el intento sea menor o igual al máximo.")
