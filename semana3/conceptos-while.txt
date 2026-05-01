@@ -8,40 +8,65 @@ Responde con tus propias palabras.
 
 1. ¿Qué significa repetir instrucciones en programación?
 
-Respuesta:
+Respuesta:Repetir instrucciones en programación
+consiste en utilizar bucles para ejecutar un
+ mismo bloque de código múltiples veces de
+forma automática, evitando la redundancia manual.
 
 2. ¿Qué es un ciclo while?
 
-Respuesta:
+Respuesta: en un bucle que repite codigo mientras 
+una condicion sea verdadera
 
 3. ¿Qué significa la condición dentro de un while?
 
-Respuesta:
+Respuesta:la condicion es la que dice si el codigo
+se ejecuta o no.
 
 4. ¿Por qué es importante cambiar una variable dentro del while?
 
-Respuesta:
+Respuesta:para evitar que el bucle sea infinito
 
 5. ¿Qué es un ciclo infinito?
 
-Respuesta:
+Respuesta:un cicclo infinito es que nunca termina 
+sigue dando vueltas y vueltas y no se detiene
 
 6. ¿Qué hace el comando npm run practicar?
 
-Respuesta:
+Respuesta:El comando npm run practicar se 
+utiliza para ejecutar un script personalizado 
+que ha sido definido previamente en el archivo
+ package.json del proyecto
 
 7. ¿Dónde está definido el comando practicar?
 
-Respuesta:
+Respuesta:packege.json
 
 8. ¿Qué diferencia hay entre node archivo.js y npm run practicar?
 
-Respuesta:
+Respuesta:la diferencia que node.js es el camino 
+hacia llegar al documento mientras que npm rum practicar es un atajo que 
+me lleva rapidamente a donde quiero ir.
 
 9. ¿Cómo puede servir un while para revisar varias fuentes de información?
 
-Respuesta:
+Respuesta:Para revisar varias fuentes con un while,
+ el ciclo recorre una lista de datos uno a uno
+mientras el contador sea menor al total de elementos.
+En cada repetición, el programa extrae la información
+de la fuente actual, la procesa y actualiza el contador
+para avanzar a la siguiente. Este método permite automatizar 
+la revisión de cientos de documentos escribiendo el código de análisis una sola vez.
 
 10. ¿Cómo puede relacionarse un ciclo con el seguimiento de propuestas comunitarias?
 
-Respuesta:
+Respuesta:Un ciclo se relaciona con el 
+seguimiento de propuestas porque permite
+automatizar la revisión de una lista de
+proyectos de forma organizada.
+En lugar de procesar cada propuesta 
+manualmente, el ciclo recorre el listado 
+una por una, ejecutando acciones como 
+verificar su estado o sumar apoyos hasta
+llegar a la última.
