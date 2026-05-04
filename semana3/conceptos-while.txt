@@ -1,47 +1,47 @@
 Conceptos básicos de while – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: yesenia bolaños
+Fecha:04-05-2026
+Nombre de la rama: yesenia-bolanos
 
 Responde con tus propias palabras.
 
 1. ¿Qué significa repetir instrucciones en programación?
 
-Respuesta:
+Respuesta: ejecutar varias veces un conjunto de instrucciones de forma automatica
 
 2. ¿Qué es un ciclo while?
 
-Respuesta:
+Respuesta: repite instrucciones mientras una condicion es verdadera
 
 3. ¿Qué significa la condición dentro de un while?
 
-Respuesta:
+Respuesta: es una exprexion que evalua como verdadera o falsa 
 
 4. ¿Por qué es importante cambiar una variable dentro del while?
 
-Respuesta:
+Respuesta: permite que la condicion deje de cumplirse y el ciclo termine
 
 5. ¿Qué es un ciclo infinito?
 
-Respuesta:
+Respuesta: un buqle que se repite sin fin
 
 6. ¿Qué hace el comando npm run practicar?
 
-Respuesta:
+Respuesta: ejecutar el nodo siclo while.js
 
 7. ¿Dónde está definido el comando practicar?
 
-Respuesta:
+Respuesta: package.json
 
 8. ¿Qué diferencia hay entre node archivo.js y npm run practicar?
 
-Respuesta:
+Respuesta: js lo que escribimos, node.js lo que ejecutamos y npm run  automatiza la ejecucion
 
 9. ¿Cómo puede servir un while para revisar varias fuentes de información?
 
-Respuesta:
+Respuesta: sirve para revisar varias fuentes de informacion por que integra y compara datos de diferentes lugares para dar un resumen unificado y mas claro 
 
 10. ¿Cómo puede relacionarse un ciclo con el seguimiento de propuestas comunitarias?
 
-Respuesta:
+Respuesta: se relaciona con el segimiento  de propuestas comunitarias por que permite revisar cada propuesta de forma ordena y repetida hasta completar toda la revision
