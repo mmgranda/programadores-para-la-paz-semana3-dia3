@@ -1,11 +1,12 @@
-let fuenteActual = 1
-const totalFuentes = 4
+let fuentes = 0;
+let fuentesMinimas = 3;
 
-console.log("Revisión de fuentes antes de compartir información")
+console.log("=== VERIFICACIÓN DE FUENTES ===");
 
-while (fuenteActual <= totalFuentes) {
-  console.log("Revisando fuente número:", fuenteActual)
-  fuenteActual = fuenteActual + 1
+while (fuentes < fuentesMinimas) {
+  fuentes = fuentes + 1;
+  console.log("Fuente " + fuentes + " verificada: OK");
 }
 
-console.log("Proceso de revisión de fuentes terminado.")
+console.log("Información confirmada con " + fuentes + " fuentes");
+console.log("Evitar rumores, usar datos verificados");
