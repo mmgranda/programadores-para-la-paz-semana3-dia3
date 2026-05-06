@@ -1,12 +1,9 @@
-let intento = 1
-const maximoIntentos = 3
+let contador = 1;
+console.log("=== CICLO WHILE: REVISIÓN COMUNITARIA ===");
 
-console.log("Práctica inicial con while")
-console.log("Vamos a repetir un proceso mientras el intento sea menor o igual al máximo.")
-
-while (intento <= maximoIntentos) {
-  console.log("Intento de revisión número:", intento)
-  intento = intento + 1
+while (contador <= 3) {
+  console.log("Revisión número " + contador + ": Verificando información");
+  contador = contador + 1;
 }
 
-console.log("Proceso de revisión finalizado.")
+console.log("Revisiones completadas. Comunidad informada.");
