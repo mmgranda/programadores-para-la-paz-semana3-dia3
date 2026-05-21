@@ -1,6 +1,5 @@
 let fuenteActual = 1
-const totalFuentes = 4
-
+const totalFuentes = 5
 console.log("Revisión de fuentes antes de compartir información")
 
 while (fuenteActual <= totalFuentes) {

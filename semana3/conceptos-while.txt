@@ -1,47 +1,65 @@
 Conceptos básicos de while – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelica Tejera Utria
+Fecha: 20/05/26
+Nombre de la rama: angelica_tejera
 
 Responde con tus propias palabras.
 
 1. ¿Qué significa repetir instrucciones en programación?
 
-Respuesta:
+Respuesta: Significa decirle a la computadora que ejecute un mismo bloque de código varias veces
+consecutivas sin tener que escribir las líneas una y otra vez.
 
 2. ¿Qué es un ciclo while?
 
-Respuesta:
+Respuesta:Es una estructura de control que repite un bloque de código mientras una condición específica sea verdadera.
+unciona como una pregunta constante: antes de arrancar cada vuelta, revisa la condición
+si se cumple, entra y ejecuta el código; si ya no se cumple, se salta el ciclo y el programa continúa con lo que sigue abajo.
+
 
 3. ¿Qué significa la condición dentro de un while?
 
-Respuesta:
+Respuesta: Es el "guardián" o la prueba lógica que decide si el ciclo continúa o se detiene.
+Siempre debe dar como resultado un valor (verdadero o falso).
+Si la condición evalúa a True, el ciclo da otra vuelta; en el momento en que evalúa a false, el ciclo se rompe inmediatamente.
 
 4. ¿Por qué es importante cambiar una variable dentro del while?
 
-Respuesta:
+Respuesta: Porque si la variable que evalúa la condición nunca cambia, el resultado de esa condición siempre va a ser verdadero.
+Necesitamos modificarla (por ejemplo, sumarle 1 a un contador o cambiar un interruptor a falso)
+dentro del ciclo para acercarnos, paso a paso, al momento en que la condición deje de cumplirse y el programa pueda salir de ahí.
 
 5. ¿Qué es un ciclo infinito?
 
-Respuesta:
+Respuesta:Es un error de lógica donde el ciclo se queda atrapado repitiendo las instrucciones para siempre
+porque la condición nunca se vuelve falsa. Esto ocurre casi siempre porque olvidamos modificar la variable de control dentro del ciclo.
 
 6. ¿Qué hace el comando npm run practicar?
 
-Respuesta:
+Respuesta:Es un comando personalizado que le dice a Node.js que ejecute un script específico, ya que automatiza la tarea que quieres probar o poner en marcha.
 
 7. ¿Dónde está definido el comando practicar?
 
-Respuesta:
+Respuesta:Está definido dentro del archivo package.json del proyecto
+específicamente dentro del objeto o sección llamado "scripts"
 
 8. ¿Qué diferencia hay entre node archivo.js y npm run practicar?
 
-Respuesta:
+Respuesta:node archivo.js: Es la orden directa y nativa para que Node ejecute un archivo específico.
+Tienes que escribir el nombre exacto del archivo y estar parado en la carpeta correcta.
+npm run practicar: Es un alias o atajo inteligente. No te importa cómo se llama el archivo
+solo se corre el atajo y el gestor de paquetes de Node (npm) se encarga de buscar en el package.json qué es lo que tiene que hacer exactamente.
 
 9. ¿Cómo puede servir un while para revisar varias fuentes de información?
 
-Respuesta:
+Respuesta: Se puede usar el while para decirle al programa: "mientras queden fuentes de información por revisar en la lista, toma la siguiente, extrae sus datos y pasa a la que sigue".
+El ciclo se detiene automáticamente cuando el contador llega al final de la lista de fuentes.
 
 10. ¿Cómo puede relacionarse un ciclo con el seguimiento de propuestas comunitarias?
 
-Respuesta:
+Respuesta:Se relaciona perfectamente para automatizar el control de procesos.
+Por ejemplo, si hay un listado de iniciativas o propuestas de los vecinos,
+un ciclo puede recorrerlas una a una para verificar su estado actual.
+También puede servir para mantener un sistema de alertas activo.
+
